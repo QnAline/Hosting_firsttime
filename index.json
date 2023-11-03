@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "title":"Writer",
+        "Author": "lecturer Ndikubwiimana"
+    },
+    {
+        "id":2,
+        "title":"Software developer",
+        "Author":"Aline NYIRANIZEYIMANA"
+    },
+    {
+        "id":3,
+        "title":"Backend developer",
+        "Author":"BIKORIMANA Saveur"
+    }
+]
