@@ -1,0 +1,66 @@
+{
+  "accidents": [
+    {
+      "id": 1,
+      "location": "Intersection of Main St and Elm St",
+      "date": "2023-11-15",
+      "type": "Car accident",
+      "description": "Collision between two vehicles at the intersection.",
+      "severity": "Moderate",
+      "casualties": 2,
+      "involvedVehicles": [
+        {
+          "vehicleType": "Sedan",
+          "make": "Toyota",
+          "model": "Camry",
+          "year": 2019,
+          "licensePlate": "ABC123"
+        },
+        {
+          "vehicleType": "SUV",
+          "make": "Ford",
+          "model": "Explorer",
+          "year": 2020,
+          "licensePlate": "XYZ789"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Emily Johnson",
+          "contact": "emily@example.com"
+        },
+        {
+          "name": "Michael Brown",
+          "contact": "michael@example.com"
+        }
+      ],
+      "preventiveMeasures": [
+        "Installing traffic cameras at the intersection",
+        "Increasing police patrol during peak hours"
+      ]
+    },
+    {
+      "id": 2,
+      "location": "Highway 101",
+      "date": "2023-11-20",
+      "type": "Truck rollover",
+      "description": "A truck overturned on the highway causing a traffic jam.",
+      "severity": "High",
+      "casualties": 0,
+      "involvedVehicles": [
+        {
+          "vehicleType": "Truck",
+          "make": "Volvo",
+          "model": "VNL",
+          "year": 2021,
+          "licensePlate": "JKL456"
+        }
+      ],
+      "witnesses": [],
+      "preventiveMeasures": [
+        "Implementing regular maintenance checks for trucks on the highway",
+        "Installing warning signs for curves on the road"
+      ]
+    }
+  ]
+}
