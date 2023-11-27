@@ -61,6 +61,76 @@
         "Implementing regular maintenance checks for trucks on the highway",
         "Installing warning signs for curves on the road"
       ]
+    },
+    {
+      "id": 3,
+      "location": "Highway 101 CARRR ",
+      "date": "2020-11-20",
+      "type": "Truck rollover",
+      "description": "A truck overturned on the highway causing a traffic jam.",
+      "severity": "High",
+      "casualties": 0,
+      "involvedVehicles": [
+        {
+          "vehicleType": "Truck",
+          "make": "Volvo",
+          "model": "VNL",
+          "year": 2051,
+          "licensePlate": "JKL456"
+        }
+      ],
+      "witnesses": [],
+      "preventiveMeasures": [
+        "Implementing regular maintenance checks for trucks on the highway",
+        "Installing warning signs for curves on the road"
+      ]
+    },
+    {
+      "id": 2,
+      "location": "Highway 101",
+      "date": "2023-11-20",
+      "type": "Truck rollover",
+      "description": "A truck overturned on the highway causing a traffic jam.",
+      "severity": "High",
+      "casualties": 0,
+      "involvedVehicles": [
+        {
+          "vehicleType": "Truck",
+          "make": "Volvo",
+          "model": "VNL",
+          "year": 2021,
+          "licensePlate": "JKL456"
+        }
+      ],
+      "witnesses": [],
+      "preventiveMeasures": [
+        "Implementing regular maintenance checks for trucks on the highway",
+        "Installing warning signs for curves on the road"
+      ]
+    },
+    {
+      "id": 4 ,
+      "location": " Middle  CARRR ",
+      "date": "2015-11-20",
+      "type": "Truck rollover",
+      "description": "A truck overturned on the highway causing a traffic jam.",
+      "severity": "High",
+      "casualties": 0,
+      "involvedVehicles": [
+        {
+          "vehicleType": "Truck",
+          "make": "Volvo",
+          "model": "VNL",
+          "year": 2051,
+          "licensePlate": "JKL456"
+        }
+      ],
+      "witnesses": [],
+      "preventiveMeasures": [
+        "Implementing regular maintenance checks for trucks on the highway",
+        "Installing warning signs for curves on the road"
+      ]
     }
+    
   ]
 }
